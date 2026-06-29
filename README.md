@@ -249,4 +249,4 @@ Spotify-SQL-Analytics/
 
 ---
 
-#⭐️ If you  found 
+#⭐️ If you  found this
